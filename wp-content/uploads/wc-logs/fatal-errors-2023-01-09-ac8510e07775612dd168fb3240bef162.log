@@ -1,0 +1,44 @@
+2023-01-09T10:05:45+00:00 CRITICAL Uncaught Error: Class 'WC_Gateway_CCAvenue' not found in /var/www/html/rithika/woocommerce/wp-content/plugins/ccavanue-woocommerce-payment-getway/index.php:480
+Stack trace:
+#0 /var/www/html/rithika/woocommerce/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(982): WC_nilesh_Ccave->process_payment()
+#1 /var/www/html/rithika/woocommerce/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1206): WC_Checkout->process_order_payment()
+#2 /var/www/html/rithika/woocommerce/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(478): WC_Checkout->process_checkout()
+#3 /var/www/html/rithika/woocommerce/wp-includes/class-wp-hook.php(308): WC_AJAX::checkout()
+#4 /var/www/html/rithika/woocommerce/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#5 /var/www/html/rithika/woocommerce/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /var/www/html/rithika/woocommerce/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(93): do_action()
+#7 /var/www/html/rithika/woocommerce/wp-inclu in /var/www/html/rithika/woocommerce/wp-content/plugins/ccavanue-woocommerce-payment-getway/index.php on line 480
+
+2023-01-09T10:06:16+00:00 CRITICAL Uncaught Error: Class 'WC_Gateway_CCAvenue' not found in /var/www/html/rithika/woocommerce/wp-content/plugins/ccavanue-woocommerce-payment-getway/index.php:480
+Stack trace:
+#0 /var/www/html/rithika/woocommerce/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(982): WC_nilesh_Ccave->process_payment()
+#1 /var/www/html/rithika/woocommerce/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1206): WC_Checkout->process_order_payment()
+#2 /var/www/html/rithika/woocommerce/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(478): WC_Checkout->process_checkout()
+#3 /var/www/html/rithika/woocommerce/wp-includes/class-wp-hook.php(308): WC_AJAX::checkout()
+#4 /var/www/html/rithika/woocommerce/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#5 /var/www/html/rithika/woocommerce/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /var/www/html/rithika/woocommerce/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(93): do_action()
+#7 /var/www/html/rithika/woocommerce/wp-inclu in /var/www/html/rithika/woocommerce/wp-content/plugins/ccavanue-woocommerce-payment-getway/index.php on line 480
+
+2023-01-09T10:40:52+00:00 CRITICAL Uncaught Error: Class 'WC_Gateway_CCAvenue' not found in /var/www/html/rithika/woocommerce/wp-content/plugins/ccavanue-woocommerce-payment-getway/index.php:480
+Stack trace:
+#0 /var/www/html/rithika/woocommerce/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(982): WC_nilesh_Ccave->process_payment()
+#1 /var/www/html/rithika/woocommerce/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1206): WC_Checkout->process_order_payment()
+#2 /var/www/html/rithika/woocommerce/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(478): WC_Checkout->process_checkout()
+#3 /var/www/html/rithika/woocommerce/wp-includes/class-wp-hook.php(308): WC_AJAX::checkout()
+#4 /var/www/html/rithika/woocommerce/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#5 /var/www/html/rithika/woocommerce/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /var/www/html/rithika/woocommerce/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(93): do_action()
+#7 /var/www/html/rithika/woocommerce/wp-inclu in /var/www/html/rithika/woocommerce/wp-content/plugins/ccavanue-woocommerce-payment-getway/index.php on line 480
+
+2023-01-09T10:47:13+00:00 CRITICAL Uncaught Error: Class 'WC_Gateway_CCAvenue' not found in /var/www/html/rithika/woocommerce/wp-content/plugins/ccavanue-woocommerce-payment-getway/index.php:480
+Stack trace:
+#0 /var/www/html/rithika/woocommerce/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(982): WC_nilesh_Ccave->process_payment()
+#1 /var/www/html/rithika/woocommerce/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1206): WC_Checkout->process_order_payment()
+#2 /var/www/html/rithika/woocommerce/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(478): WC_Checkout->process_checkout()
+#3 /var/www/html/rithika/woocommerce/wp-includes/class-wp-hook.php(308): WC_AJAX::checkout()
+#4 /var/www/html/rithika/woocommerce/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#5 /var/www/html/rithika/woocommerce/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /var/www/html/rithika/woocommerce/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(93): do_action()
+#7 /var/www/html/rithika/woocommerce/wp-inclu in /var/www/html/rithika/woocommerce/wp-content/plugins/ccavanue-woocommerce-payment-getway/index.php on line 480
+
